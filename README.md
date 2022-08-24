@@ -3,7 +3,7 @@
 This repository contains the source code and the data used for capturing provenance incrementally in RDF knowledge graphs. Specifically, it contains the source code and data used in the following technical report showing how knowledge graph saturation can be enhanced with provenance capture, and how both saturation and provenance capture can be performed efficiently against dynamic knowledge graphs that are subject to triple assertion and deletion. 
 
 
-Khalid Belhajjame and Mohamed-Yassine Mejri. [Provenance-Enhanced Saturation of Dynamic Knowledge Graphs](https://tinyurl.com/4tkd2rxa). Technical Report. PSL, Paris-Dauphine University, pages 1-59. 2022
+Khalid Belhajjame and Mohamed-Yassine Mejri. [Provenance-Enhanced Saturation of Dynamic Knowledge Graphs](https://tinyurl.com/yc5j4zzp). Technical Report. PSL, Paris-Dauphine University, pages 1-59. 2022
 
 
 ## Data Model
